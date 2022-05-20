@@ -13,10 +13,3 @@ Le bureau est composé de membres élus pour un an, et il se réunira en fonctio
 Le bureau prend la majorité des décisions, l’assemblée générale sera surtout là pour contrôler l’activité et élire le bureau.
 
 Le rôle du bureau n’est pas d’organiser les événements, mais de gérer le fonctionnement de l’association.
-
-
-## Bureau
-
-    Président : Frédéric MARTINEZ (@FredMartinez)
-    Secrétaire : Mehdi CHAOUCH (@MehdiChch)
-    Trésorier : Tony SMAGGHE (@TonySmag)
